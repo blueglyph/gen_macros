@@ -1,0 +1,9 @@
+[package]
+name = "gen_macros"
+version = "0.2.0"
+edition = "2021"
+authors = ["redglyph"]
+license = "MIT"
+description = "General macros"
+
+[dependencies]
